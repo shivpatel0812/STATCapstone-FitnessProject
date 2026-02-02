@@ -17,6 +17,9 @@
 *.utf8.md
 *.knit.md
 
+# Data files
+*.xpt
+
 # Temporary files
 *.tmp
 *.bak
